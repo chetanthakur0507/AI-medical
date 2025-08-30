@@ -1,4 +1,4 @@
-# Medical Summarization Challenge – Team=NeuroSpartans
+# Medical Summarization Challenge – Team:NeuroSpartans
 
 
 
