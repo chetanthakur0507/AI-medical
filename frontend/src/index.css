@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Colors: primary (blue), accent (emerald), neutrals */
+:root {
+  --brand: #2563eb;
+  --accent: #10b981;
+}

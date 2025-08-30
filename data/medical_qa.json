@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are the symptoms of diabetes?",
+    "answer": "Increased thirst, frequent urination, hunger, fatigue, and blurred vision."
+  },
+  {
+    "question": "What is hypertension?",
+    "answer": "A condition in which the force of the blood against the artery walls is too high, often requiring lifestyle changes or medication."
+  },
+  {
+    "question": "How is high cholesterol managed?",
+    "answer": "Dietary changes, increased physical activity, weight management, and medications like statins if necessary."
+  },
+  {
+    "question": "What causes anemia?",
+    "answer": "Low red blood cell count commonly due to iron deficiency, chronic disease, or blood loss."
+  },
+  {
+    "question": "What is asthma?",
+    "answer": "A chronic condition causing airway inflammation and narrowing, leading to wheezing, shortness of breath, and coughing."
+  },
+  {
+    "question": "When should I see a doctor for chest pain?",
+    "answer": "Immediately if chest pain is severe, persistent, or accompanied by shortness of breath, sweating, or nausea."
+  },
+  {
+    "question": "What are common migraine triggers?",
+    "answer": "Stress, certain foods, dehydration, lack of sleep, hormonal changes, and bright lights."
+  },
+  {
+    "question": "How to reduce risk of heart disease?",
+    "answer": "Stop smoking, exercise regularly, maintain a healthy diet and weight, and manage blood pressure and cholesterol."
+  },
+  {
+    "question": "What is a urinary tract infection (UTI)?",
+    "answer": "An infection in any part of the urinary system, often causing burning urination, frequent urges, and pelvic pain."
+  },
+  {
+    "question": "What is hypothyroidism?",
+    "answer": "An underactive thyroid gland that can cause fatigue, weight gain, cold intolerance, and dry skin."
+  }
+]

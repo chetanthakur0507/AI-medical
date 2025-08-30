@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+PyMuPDF
+pytesseract
+opencv-python
+Pillow
+spacy
+transformers
+torch
+scikit-learn
+pandas
+joblib
+python-multipart
+datasets
